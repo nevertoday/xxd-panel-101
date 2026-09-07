@@ -374,9 +374,9 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 
 
-### 小小东总控 · 将军总指挥 Skill · 101 元
+### 小小东总控 · 将军总指挥 Skill · 100 元
 
-一次支付 101 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills。扫码后请备注“将军总指挥 Skill”。
+一次支付 100 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills。扫码后请备注“将军总指挥 Skill”。
 
 <!-- xxd-panel-command-system:start -->
 **购买后可使用：主控全队的将军 Skill**

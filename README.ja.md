@@ -368,9 +368,9 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 
 ## サポートとメンバーシップ
 
-### Xiaoxiaodong 総控 · 将軍総指揮 Skill · CNY 101
+### Xiaoxiaodong 総控 · 将軍総指揮 Skill · CNY 100
 
-CNY 101 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-panel-all`）を利用できます。全兵士 Skills の統括、推薦、指名派遣、一括調整に対応します。WeChat では「将軍総指揮 Skill」と記載してください。
+CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-panel-all`）を利用できます。全兵士 Skills の統括、推薦、指名派遣、一括調整に対応します。WeChat では「将軍総指揮 Skill」と記載してください。
 
 <!-- xxd-panel-command-system:start -->
 **購入後に利用可能：全隊を指揮する「将軍 Skill」**
