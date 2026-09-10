@@ -263,7 +263,7 @@ def audit(path: Path, layout: str, expected_size: tuple[int, int] | None) -> Non
     mean = sum(scores) / len(scores)
     half = axis_length / 2
     offset = seam - half
-    offset_pct = abs(offset) / axis_length * 101
+    offset_pct = abs(offset) / axis_length * 100
     axis = "y" if layout == "top-bottom" else "x"
 
     print(f"exact half {axis} = {half:.1f}")
@@ -281,8 +281,8 @@ def audit(path: Path, layout: str, expected_size: tuple[int, int] | None) -> Non
     if offset_pct < 0.25:
         print("verdict    OK — the split is effectively exact.")
     else:
-        first = seam / axis_length * 101
-        print(f"verdict    OFF — panels are {first:.1f}% / {101 - first:.1f}%, not 50/50.")
+        first = seam / axis_length * 100
+        print(f"verdict    OFF — panels are {first:.1f}% / {100 - first:.1f}%, not 50/50.")
         print("           Regenerate the panels separately and compose them here.")
 
 
