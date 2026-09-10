@@ -11,23 +11,18 @@
 
 ## 样张展示
 
-**16:9 横版左右样张**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版上下样张**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 101 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 **Panel 101** 适合那些想把一张照片的情绪、物件和小细节保存下来，却不想得到普通写实复刻的人。它把同一画面提炼成松散九宫格中的九个记忆单元，以手绘稚拙涂鸦、蜡笔和彩铅颗粒，形成一页有私人感的视觉记忆簿。
