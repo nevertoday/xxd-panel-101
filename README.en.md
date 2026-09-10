@@ -45,6 +45,15 @@ The eight works above comprise four 16:9 landscape left–right samples and four
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -63,22 +72,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Every unit comes from a recognisable subject, detail, action, object, or relationship in the current photograph |
 | **Where it works** | Travel journals, family memories, pet diaries, event recaps, social content, and multi-device wallpapers |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-read subjects and everyday clues → choose nine memories worth keeping → arrange an implicit loose 3×3 grid → translate with naïve lines and crayon/coloured pencil → derive a retro candy palette from the source → add sparse handwriting and red annotations
-```
-
-## Recognisable finished traits
-
-- Nine icons carry the photograph's subject, distinctive details, objects, actions, emotions, or small scenes as one memory list.
-- The grid remains perceptible, but icon scale, angle, and position drift slightly instead of forming a UI table.
-- Lines tremble, vary in weight, and may remain open; crayon and pencil fills reveal paper grain and rough edges.
-- Warm off-white paper supports muted blue-greens, yellow-pinks, and a tiny amount of orange-red, with sparse red circles, arrows, or stars.
-- Copy reads like a small handwritten title or caption; avoid realism, polished vectors, heavy shadows, commercial templates, and children's cartoons.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-101-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
