@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-101"
-  short_description: "Turn images into a nine-cell memory notebook."
-  default_prompt: "Use $xxd-panel-101; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "九宫记忆簿：把一张照片拆成九个手绘小涂鸦，排成像手帐页的松散九宫格"
+  default_prompt: "Use $xxd-panel-101 to turn my photo into Nine-Cell Memory Notebook artwork."
 
 policy:
   allow_implicit_invocation: true

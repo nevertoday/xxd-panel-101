@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 101｜Nine-Cell Memory Notebook: breaks one photo into nine small memories drawn on a loose, hidden 3×3 grid — the subject, a detail, something carried, a plant, food, a way of travelling, a pose or a mood symbol, each a naive hand-drawn doodle with wobbly, uneven, open outlines, coloured pencil and crayon fill that leaves paper grain, slightly offset icons with plenty of space, a low-saturation retro candy palette (sage, mint, crayon blue, cobalt, cream yellow, dusty pink, strawberry, a little coral red) on warm off-white textured paper, a few red hand-drawn annotations such as circles, arrows, hearts and stars, a short handwritten title on top and a tiny caption below. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-101 or asks for a 3×3 doodle icon grid, journal page, memory list or hand-drawn collection sheet from a photo.",
+  "short_description": "九宫记忆簿：把一张照片拆成九个手绘小涂鸦，排成像手帐页的松散九宫格",
+  "zh-CN": {
+    "name": "九宫记忆簿",
+    "tagline": "把一张照片拆成九个值得记住的小涂鸦，排成一页私人手帐。",
+    "look": "照片被拆成九个小单元：主体本身、某个局部、随身物件、植物、食物、交通工具、姿态或情绪符号，都来自同一张照片。九个涂鸦落在一个看不太出的松散九宫格里，位置、大小和角度略有错开，留白很多。每个涂鸦线条抖动、粗细不均、不完全闭合，用彩铅和蜡笔涂色，看得到纸纹和白色颗粒。颜色是低饱和的复古糖果色，鼠尾草绿、蜡笔蓝为主，黄粉点缀，铺在米白粗纹纸上，再加几个红色的圈、箭头、爱心或星星当批注。顶部有一行手写小标题，底部有一句很小的手写说明。",
+    "traits": ["3×3 松散网格", "稚拙涂鸦", "蜡笔彩铅颗粒", "复古糖果色", "红色批注", "私人手帐"],
+    "good": [
+      "细节丰富、值得一件件记下来的生活照片：旅行途中的一顿早餐、野餐、书桌一角",
+      "带随身物件的人物照：背包、相机、帽子、咖啡都能各成一格",
+      "有地方特色的旅行照片：街角小店、市集、海边一日"
+    ],
+    "poor": [
+      "画面很简单、只有一个元素的照片，凑不出九个有意义的单元",
+      "需要写实还原或强烈情绪张力的照片：肖像特写、戏剧性风景",
+      "想要整洁 UI 图标、矢量规整格子或儿童卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Nine-Cell Memory Notebook",
+    "tagline": "Breaks one photo into nine small doodled memories laid out like a personal journal page.",
+    "look": "The photo is broken into nine small pieces, all from the same picture: the subject, a detail, something carried, a plant, food, a way of travelling, a pose or a mood symbol. The nine doodles sit on a loose, barely visible 3×3 grid, slightly shifted in place, size and angle, with plenty of space around them. Each has wobbly, uneven, not-quite-closed lines and coloured-pencil and crayon fill that shows paper grain and white specks. The palette is a low-saturation retro candy set, mainly sage green and crayon blue with yellow and pink touches, on warm off-white textured paper, plus a few red circles, arrows, hearts or stars as notes. A short handwritten title sits on top and a tiny handwritten caption at the bottom.",
+    "traits": ["Loose 3×3 grid", "Naive doodles", "Crayon and pencil grain", "Retro candy colours", "Red annotations", "Personal journal"],
+    "good": [
+      "Detail-rich everyday photos worth listing piece by piece: a breakfast on a trip, a picnic, a corner of a desk",
+      "People with things they carry: a backpack, camera, hat and coffee can each take a cell",
+      "Travel photos with local character: a corner shop, a market, a day at the beach"
+    ],
+    "poor": [
+      "Very simple photos with a single element, which cannot yield nine meaningful pieces",
+      "Photos that need realism or strong drama: close-up portraits, dramatic landscapes",
+      "Requests for neat UI icons, a rigid vector grid or a children's cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "九つの記憶ノート",
+    "tagline": "一枚の写真を九つの小さな落書きに分け、自分だけの手帳のページに並べます。",
+    "look": "写真は九つの小さな単位に分けられます。主役、どこかの部分、持ち物、植物、食べ物、乗り物、ポーズ、気分の記号など、すべて同じ写真から生まれたものです。九つの落書きはほとんど見えないゆるい 3×3 のグリッドに置かれ、位置や大きさ、角度が少しずつずれ、余白はたっぷり。どれも線が揺れて太さが不揃いで閉じきらず、色鉛筆とクレヨンで塗られて紙目や白い粒が見えます。色は彩度を抑えたレトロなキャンディカラーで、セージグリーンとクレヨンブルーが中心、黄色とピンクを差し、生成りの粗い紙にのせます。赤い丸や矢印、ハート、星が注記として少しだけ入ります。上には短い手書きのタイトル、下にはごく小さな手書きの一言が添えられます。",
+    "traits": ["ゆるい 3×3 グリッド", "素朴な落書き", "クレヨンと色鉛筆の粒子", "レトロなキャンディカラー", "赤い書き込み", "自分だけの手帳"],
+    "good": [
+      "細部が豊かで、ひとつずつ書き留めたくなる生活写真：旅先の朝ごはん、ピクニック、机の一角",
+      "持ち物のある人物写真：リュック、カメラ、帽子、コーヒーがそれぞれ一マスになります",
+      "土地らしさのある旅の写真：街角の店、市場、海辺の一日"
+    ],
+    "poor": [
+      "要素がひとつだけの簡単な写真（意味のある九つの単位をつくれません）",
+      "写実的な再現や強いドラマが必要な写真：顔のアップ、劇的な風景",
+      "整った UI アイコン、きっちりしたベクターのマス目、子ども向けカートゥーンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "아홉 칸 기억 노트",
+    "tagline": "사진 한 장을 아홉 개의 작은 낙서로 나눠 나만의 다이어리 한 페이지처럼 배치합니다.",
+    "look": "사진은 아홉 개의 작은 단위로 나뉩니다. 주인공, 어느 한 부분, 소지품, 식물, 음식, 탈것, 자세, 감정 기호처럼 모두 같은 사진에서 나온 것입니다. 아홉 개의 낙서는 거의 보이지 않는 느슨한 3×3 격자에 놓이고, 위치, 크기, 각도가 조금씩 어긋나며 여백이 넉넉합니다. 낙서마다 선이 흔들리고 굵기가 고르지 않으며 끝까지 닫히지 않고, 색연필과 크레용으로 칠해 종이 결과 흰 입자가 보입니다. 색은 채도를 낮춘 레트로 캔디 컬러로 세이지 그린과 크레용 블루가 중심이고 노랑과 분홍을 곁들이며, 미색의 거친 종이 위에 놓입니다. 빨간 동그라미, 화살표, 하트, 별이 메모처럼 몇 개 들어갑니다. 위에는 짧은 손글씨 제목, 아래에는 아주 작은 손글씨 한 줄이 있습니다.",
+    "traits": ["느슨한 3×3 격자", "서툰 낙서", "크레용·색연필 입자", "레트로 캔디 컬러", "빨간 메모 표시", "나만의 다이어리"],
+    "good": [
+      "세부가 풍부해 하나씩 적어 두고 싶은 생활 사진: 여행지의 아침밥, 소풍, 책상 한쪽",
+      "소지품이 있는 인물 사진: 배낭, 카메라, 모자, 커피가 각각 한 칸이 됩니다",
+      "지역 색이 있는 여행 사진: 골목 가게, 시장, 바닷가에서의 하루"
+    ],
+    "poor": [
+      "요소가 하나뿐인 단순한 사진(의미 있는 아홉 칸을 만들 수 없습니다)",
+      "사실적 재현이나 강한 극적 긴장이 필요한 사진: 얼굴 클로즈업, 극적인 풍경",
+      "깔끔한 UI 아이콘, 반듯한 벡터 격자, 어린이 카툰 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر ذكريات من تسع خانات",
+    "tagline": "يقسّم صورة واحدة إلى تسع ذكريات صغيرة مرسومة بخربشات، مرتبة كصفحة من مذكرات شخصية.",
+    "look": "تُقسَّم الصورة إلى تسع قطع صغيرة كلها من المشهد نفسه: العنصر ذاته، تفصيل منه، شيء يحمله، نبتة، طعام، وسيلة تنقل، وضعية أو رمز لمزاج. تستقر الخربشات التسع على شبكة 3×3 مرتخية بالكاد تُرى، مُزاحة قليلاً في مكانها وحجمها وزاويتها، مع فراغ وافر حولها. لكل منها خطوط مرتجفة متفاوتة السماكة غير مغلقة تماماً، وتلوين بأقلام ملونة وطباشير شمعي يُظهر حبيبات الورق ونقاطاً بيضاء. الألوان حلوى رجعية قليلة التشبع، يغلب عليها الأخضر المريمي والأزرق الشمعي مع لمسات صفراء ووردية، على ورق خشن أبيض مائل إلى الكريمي، مع بضع دوائر وأسهم وقلوب ونجوم حمراء كتعليقات. في الأعلى عنوان قصير بخط اليد، وفي الأسفل تعليق صغير جداً بخط اليد.",
+    "traits": ["شبكة 3×3 مرتخية", "خربشات ساذجة", "حبيبات الطباشير والأقلام", "ألوان حلوى رجعية", "تعليقات حمراء", "مذكرات شخصية"],
+    "good": [
+      "صور يومية غنية بالتفاصيل تستحق التدوين قطعة قطعة: فطور في رحلة، نزهة، ركن من مكتب",
+      "صور أشخاص مع أغراضهم: حقيبة الظهر والكاميرا والقبعة والقهوة تأخذ كل منها خانة",
+      "صور سفر لها طابع محلي: دكان على ناصية، سوق، يوم على الشاطئ"
+    ],
+    "poor": [
+      "الصور البسيطة جداً ذات العنصر الواحد، إذ لا تكفي لتسع قطع ذات معنى",
+      "صور تحتاج إلى واقعية أو دراما قوية: صور الوجه القريبة، المناظر المسرحية",
+      "طلب أيقونات واجهات مرتبة أو شبكة متجهية صارمة أو مظهر كرتون أطفال"
+    ]
+  }
+}

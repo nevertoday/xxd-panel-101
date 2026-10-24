@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-101
-description: "Create XXD Panel 101 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-101 or requests the exact Panel 101 style."
+description: "XXD Panel 101｜Nine-Cell Memory Notebook: breaks one photo into nine small memories drawn on a loose, hidden 3×3 grid — the subject, a detail, something carried, a plant, food, a way of travelling, a pose or a mood symbol, each a naive hand-drawn doodle with wobbly, uneven, open outlines, coloured pencil and crayon fill that leaves paper grain, slightly offset icons with plenty of space, a low-saturation retro candy palette (sage, mint, crayon blue, cobalt, cream yellow, dusty pink, strawberry, a little coral red) on warm off-white textured paper, a few red hand-drawn annotations such as circles, arrows, hearts and stars, a short handwritten title on top and a tiny caption below. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-101 or asks for a 3×3 doodle icon grid, journal page, memory list or hand-drawn collection sheet from a photo."
 ---
 
 # XXD Panel 101
